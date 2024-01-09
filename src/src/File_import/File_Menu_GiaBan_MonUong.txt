@@ -1,0 +1,40 @@
+Cafe
+12000
+ca ngay
+true
+Tra sua truyen thong
+30000
+ca ngay
+true
+Dua
+15000
+ca ngay
+true
+Kem
+10000
+trua
+false
+Tra dao
+20000
+ca ngay
+true
+Tra tac
+10000
+ca ngay
+true
+Tra oi
+25000
+ca ngay
+true
+Bac xiu
+15000
+toi
+true
+Cafe sua nong
+22000
+ca ngay
+false
+nuoc ngot
+15000
+ca ngay
+true

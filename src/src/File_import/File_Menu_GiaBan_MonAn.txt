@@ -1,0 +1,40 @@
+Banh my
+10000
+sang
+false
+Sandwitch
+25000
+ca ngay
+true
+Com tam
+20000
+sang
+false
+Beef steak
+50000
+ca ngay
+false
+Xoi
+5000
+sang
+true
+Com chien
+20000
+sang
+false
+Bun rieu
+25000
+toi
+true
+Bun mam
+25000
+toi
+false
+Pho
+30000
+trua
+false
+Banh uot
+30000
+trua
+true
